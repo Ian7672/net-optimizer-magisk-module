@@ -1,0 +1,6 @@
+id=netoptimizer
+name=NetOptimizer
+version=1.0
+versionCode=1
+author=Ian7672
+description=TCP + DNS tweak (BBR + Cloudflare) for better network performance

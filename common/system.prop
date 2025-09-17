@@ -1,0 +1,3 @@
+# DNS Tweaks (Cloudflare)
+net.dns1=1.1.1.1
+net.dns2=1.0.0.1
